@@ -1,7 +1,8 @@
 Términos y Condiciones
 Objeto: Laburantes es una plataforma destinada a facilitar búsqueda de trabajadores. 
 No cobra comisiones por esa tarea y sugiere contratar trabajadores matriculados. 
-No es responsable de los cobros y pagos que se hagan entre las partes, ni por la calidad del servicio que se presta.
+No es responsable de los cobros y pagos que se hagan entre las partes, 
+ni por la calidad del servicio que se presta.
 
 1. Edad mínima:
    Para utilizar Laburantes, usted debe tener al menos 18 años. 
@@ -37,6 +38,7 @@ No es responsable de los cobros y pagos que se hagan entre las partes, ni por la
    Estos Términos y Condiciones se rigen por las leyes de la República Argentina. Ante cualquier     disputa, las partes se someten a la jurisdicción de los tribunales ordinarios de la Ciudad        Autónoma de Buenos Aires, con renuncia a cualquier otro fuero.
 9. Aceptación de los términos
    Al usar el sitio, usted declara haber leído y aceptado estos Términos y Condiciones. En caso      de no estar de acuerdo, no debe usar la plataforma.            
+
 
 
 

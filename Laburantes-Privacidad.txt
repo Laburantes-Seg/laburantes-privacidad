@@ -29,16 +29,19 @@ ni por la calidad del servicio que se presta.
 6. Modificaciones y baja del servicio.
    - 6.1 Laburantes puede modificar estos términos en cualquier momento. 
    - 6.2 El uso del sitio implica la aceptación de los cambios.
-   - 6.3 Laburantes se reserva el derecho de suspender el servicio o eliminar cuentas que                  infrinjan estos términos.
+   - 6.3 Laburantes se reserva el derecho de suspender el servicio o eliminar cuentas 
+         que infrinjan estos términos.
 7. Privacidad
    - 7.1 El tratamiento de los datos personales se rige por estos términos. Usted autoriza a 
          Laburantes a procesar sus datos de acuerdo con esa política.
-   - 7.2 Los usuarios pueden solicitar a soporte.laburantes@gmail.com la eliminación de sus                datos.	
+   - 7.2 Los usuarios pueden solicitar a soporte.laburantes@gmail.com la eliminación de sus
+         datos.	
    - 7.3 La ubicación se usa para mejorar la búsqueda y no se transfiere a terceros ajenos ni se           usa para otros fines.
 8. Jurisdicción
    Estos Términos y Condiciones se rigen por las leyes de la República Argentina. Ante cualquier     disputa, las partes se someten a la jurisdicción de los tribunales ordinarios de la Ciudad        Autónoma de Buenos Aires, con renuncia a cualquier otro fuero.
 9. Aceptación de los términos
    Al usar el sitio, usted declara haber leído y aceptado estos Términos y Condiciones. En caso      de no estar de acuerdo, no debe usar la plataforma.            
+
 
 
 

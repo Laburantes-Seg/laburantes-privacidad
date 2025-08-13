@@ -1,4 +1,3 @@
-Términos y Condiciones
 Objeto: Laburantes es una plataforma destinada a facilitar búsqueda de trabajadores. 
 No cobra comisiones por esa tarea y sugiere contratar trabajadores matriculados. 
 No es responsable de los cobros y pagos que se hagan entre las partes, 
@@ -6,31 +5,38 @@ ni por la calidad del servicio que se presta.
 
 1. Edad mínima:
    Para utilizar Laburantes, usted debe tener al menos 18 años. 
+
 2. Registro y uso responsable.
    Al registrarse, usted se compromete a:
    - 2.1. Brindar información veraz, actual y completa.
    - 2.2. No suplantar la identidad de otra persona.
    - 2.3. Usar el sitio de manera respetuosa y conforme a ética pública y la ley Argentina.
+   - 2.4  Cada laburante puede registrarse sólo para para un único servicio.
+
 3. Queda estrictamente prohibido:
    - 3.1 Publicar contenido ofensivo, vulgar, violento, discriminatorio o ilegal.
    - 3.2 Utilizar el sitio para engaños, spam o estafas.
    - 3.3 Acosar, amenazar o extorsionar a otros usuarios, virtual o físicamente.
    - 3.4 Exponer y/o enviar material pornográfico.
-4. Responsabilidad del contenido
+
+4. Responsabilidad del contenido:
    - 4.1 Los usuarios son los únicos responsables de sus relaciones e interacciones
          dentro y fuera de la plataforma.
    - 4.2 Cada usuario es responsable del contenido que publica y de sus consecuencias.
    - 4.3 Laburantes no garantiza la veracidad de los perfiles ni verifica la identidad
          de los usuarios.
+
 5. Limitación de responsabilidad:Laburantes no se hace responsable por las consecuencias de:
-   - 5.1 Delitos producto de ecuentros reales entre usuarios vinculados por la plataforma.
+   - 5.1 Delitos producto de encuentros reales entre usuarios vinculados por la plataforma.
    - 5.2 Daños directos o indirectos derivados de su uso.
    - 5.3 Pérdida de datos o acceso no autorizado.
+
 6. Modificaciones y baja del servicio.
    - 6.1 Laburantes puede modificar estos términos en cualquier momento. 
    - 6.2 El uso del sitio implica la aceptación de los cambios.
    - 6.3 Laburantes se reserva el derecho de suspender el servicio o eliminar cuentas 
          que infrinjan estos términos.
+
 7. Privacidad
    - 7.1 El tratamiento de los datos personales se rige por estos términos. Usted autoriza a 
          Laburantes a procesar sus datos de acuerdo con esa política.
@@ -38,13 +44,16 @@ ni por la calidad del servicio que se presta.
          datos.	
    - 7.3 La ubicación se usa para mejorar la búsqueda y no se transfiere a terceros ajenos 
          ni se usa para otros fines.
-8. Jurisdicción
+
+8. Jurisdicción:
    Estos Términos y Condiciones se rigen por las leyes de la República Argentina. 
    Ante cualquier disputa, las partes se someten a la jurisdicción de los tribunales 
    ordinarios de la Ciudad Autónoma de Buenos Aires, con renuncia a cualquier otro fuero.
-9. Aceptación de los términos
+
+9. Aceptación de los términos:
    Al usar el sitio, usted declara haber leído y aceptado estos Términos y Condiciones. 
-   En caso de no estar de acuerdo, no debe usar la plataforma.            
+   En caso de no estar de acuerdo, no debe usar la plataforma.               
+
 
 
 
